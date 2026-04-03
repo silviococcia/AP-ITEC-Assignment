@@ -1,1 +1,226 @@
 # AP-ITEC-Assignment
+[index-8.html](https://github.com/user-attachments/files/26472484/index-8.html)
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <title>Silvio Coccia</title>
+
+    <meta name="Student" content="Silvio Coccia">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="images/favicon/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    
+  </head>
+
+  <body>
+    <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+      <tr style="padding:0px">
+        <td style="padding:0px">
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr style="padding:0px">
+              <td style="padding:2.5%;width:63%;vertical-align:middle">
+                <p class="name" style="text-align: center;">
+                  Silvio Coccia
+                </p>
+                <p>I am an economics student with a string interest in math.  My academic focus is to use quanttative tools to explore economic phenomena, and i enjoy projects that combine math with the real world
+                </p>
+                I am cuurently learning web development and coding to better showcase my projects.  This website showcases as a personal portfolio highlighting my skills and interests.
+                </p>
+              </td>
+              <td style="padding:2.5%;width:40%;max-width:40%">
+              </td>
+            </tr>
+          </tbody></table>
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+              <tr>
+              <td style="padding:20px;width:100%;vertical-align:middle">
+                <h2>Research</h2>
+                <p>
+                  I'm interested in Economics, quantative analysis, and mathamatics.  Most of my work focuses on undertsnading economic systsems, data analysis, and useing math to explain real world problems, such as markets, trends, and decsion making. 
+                </p>
+              </td>
+            </tr>
+          </tbody></table>
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+
+
+    <tr onmouseout="smerf_stop()" onmouseover="smerf_start()">
+      <td style="padding:20px;width:25%;vertical-align:middle">
+          </video></div>
+          <img src='images/econ_project.jpg' width=100%>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+          <span class="papertitle">AP/ITEC Website</span>
+        <br>
+		<strong>Silvio L. Coccia</strong>
+        <br>
+        <em>York University</em>,
+        <br>
+        <p></p>
+        <p>
+       Making a websit using code and my own personality traits to teach others about myself.
+        </p>
+      </td>
+    </tr>
+	
+
+    <tr onmouseout="nuvo_stop()" onmouseover="nuvo_start()">
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <div class="two" id='nuvo_image'><video  width=100% muted autoplay loop>
+          <source src="images/nuvo.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+          </video></div>
+          <img src='images/weightlifting.png' width=100%>
+        </div>
+        <script type="text/javascript">
+          function nuvo_start() {
+            document.getElementById('nuvo_image').style.opacity = "1";
+          }
+
+          function nuvo_stop() {
+            document.getElementById('nuvo_image').style.opacity = "0";
+          }
+          nuvo_stop()
+        </script>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://pratulsrinivasan.github.io/nuvo/">
+          <span class="papertitle">Staying Physciall Active</span>
+          </a>
+        <p></p>
+        <p>
+        Staying physcially active is an important part of my life, both for my mental and physical health.  Regular excersize helps to stay focused, reduces stress, and improves my overall health.  One of the activites I enjoy doing most is weightlifting, as it allows me to challange myself, build discipline, and see consistant progress over time.  
+        </p>
+      </td>
+    </tr>
+	
+	
+    <tr onmouseout="recon_stop()" onmouseover="recon_start()" bgcolor="#ffffd0">
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <div class="two" id='recon_image'><video  width=100% height=100% muted autoplay loop>
+          <source src="images/soccerball.png" type="video/mp4">
+          Your browser does not support the video tag.
+          </video></div>
+          <img src='images/recon.png' width="160">
+        </div>
+        <script type="text/javascript">
+          function recon_start() {
+            document.getElementById('recon_image').style.opacity = "1";
+          }
+
+          function recon_stop() {
+            document.getElementById('recon_image').style.opacity = "0";
+          }
+          recon_stop()
+        </script>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://reconfusion.github.io/">
+			<span class="papertitle">My Passion for Sports</span>
+			</a>
+        <p></p>
+        <p>
+        Sports have always played a major role in my life, with soccee being at the centre of it all.  I've been playing since I was four years old, and over time it has become a huge part of who I am today.  Soccer has taught me discipline, teamwork, and resilliance, shaping me both on and off the field.
+        </p>
+      </td>
+    </tr>
+
+
+<tr onmouseout="difsurvey_stop()" onmouseover="difsurvey_start()">
+  <td style="padding:20px;width:25%;vertical-align:middle">
+    <div class="one">
+    <div class="two" id='difsurvey_image'><video  width=100% height=100% muted autoplay loop>
+    <source src="images/difsurvey_video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video></div>
+      <img src='images/controller.png' width="160">
+    </div>
+    <script type="text/javascript">
+      function difsurvey_start() {
+        document.getElementById('difsurvey_image').style.opacity = "1";
+      }
+
+      function difsurvey_stop() {
+        document.getElementById('difsurvey_image').style.opacity = "0";
+      }
+      difsurvey_stop()
+    </script>
+  </td>
+  <td style="padding:20px;width:75%;vertical-align:middle">
+    <a href="https://arxiv.org/abs/2310.07204">
+      <span class="papertitle">My Interst in Video Games</span>
+      </a>
+    <p></p>
+    <p>
+    I've always enjoyed playing video games, and it's been something I've truned to since I was little. Over the years it has become one of my favourite ways to relax and pass the time.
+    </p>
+  </td>
+</tr>          
+
+    <tr onmouseout="camp_stop()" onmouseover="camp_start()">
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <div class="two" id='camp_image'><video  width=100% height=100% muted autoplay loop>
+          <source src="images/camp.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+          </video></div>
+          <img src='images/italianflag.png' width="160">
+        </div>
+        <script type="text/javascript">
+          function camp_start() {
+            document.getElementById('camp_image').style.opacity = "1";
+          }
+
+          function camp_stop() {
+            document.getElementById('camp_image').style.opacity = "0";
+          }
+          camp_stop()
+        </script>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://camp-nerf.github.io/">
+          <span class="papertitle">My Italian Heritage</span>
+          </a>
+        <p></p>
+        <p>
+       My Italian heritage has played a meaningful role in shaping who I am today.  The food, traditions, and values passed down through my family have all contributed to my identity and how I see the world.  these experiances have created strong connections to my roots, and I take pride in where I come from.
+        </p>
+      </td>
+    </tr>
+
+ <tr onmouseout="camp_stop()" onmouseover="camp_start()">
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <div class="two" id='camp_image'><video  width=100% height=100% muted autoplay loop>
+          <source src="images/camp.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+          </video></div>
+          <img src='images/mathamatics.png' width="160">
+        </div>
+        <script type="text/javascript">
+          function camp_start() {
+            document.getElementById('camp_image').style.opacity = "1";
+          }
+
+          function camp_stop() {
+            document.getElementById('camp_image').style.opacity = "0";
+          }
+          camp_stop()
+        </script>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://camp-nerf.github.io/">
+          <span class="papertitle">My Passion for Mathammatics</span>
+          </a>
+        <p></p>
+        <p>
+       I have always been interested in mathamatics, and it's a subject where I preform the strongest.  I enjoy solving problems. recognizing patterns, and working through loogical challenges.  Math has helped me build strong critical thinking skills and has become one of my favourite academic areas.
+        </p>
+      </td>
+    </tr>
+</html>
