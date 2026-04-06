@@ -10,7 +10,7 @@
   <!DOCTYPE html>
       <html>
         <body>
-          <a href="file:///Users/silviococcia/Downloads/index-8.html">Click here</a>
+          <a href="index-8.html"</a>
         </body>
       </html>
     </p>
