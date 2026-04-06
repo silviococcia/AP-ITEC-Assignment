@@ -6,10 +6,8 @@
     </p>
     <p>
       Thank you for taking the time to explore my site.
-    </p>
-    <p>
-      you can veiw my webite here:
-      <a href="index-8.html>click here</a>
+      <a href="index-8.html"
+        </a>
     </p>
   </td>
 </tr>
