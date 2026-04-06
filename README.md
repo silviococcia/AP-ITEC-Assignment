@@ -6,8 +6,13 @@
     </p>
     <p>
       Thank you for taking the time to explore my site.
-      <a href="index-8.html"
-        </a>
+    <p>
+  <!DOCTYPE html>
+      <html>
+        <body>
+          <a href="index-8.html">Click here</a>
+        </body>
+      </html>
     </p>
   </td>
 </tr>
